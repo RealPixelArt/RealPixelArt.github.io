@@ -1,0 +1,109 @@
+{
+  "version": "0.1.0",
+  "pyodide": "0.26.4",
+  "defaults": {
+    "colors": null,
+    "palette": null,
+    "color_mode": "natural",
+    "scale": 1,
+    "sampling": "robust",
+    "alpha_mode": "auto",
+    "local_warp": "auto",
+    "photo_mode": "auto",
+    "min_pixel_size": 2.0,
+    "max_pixel_size": 64.0,
+    "square": false,
+    "confidence_threshold": 0.45
+  },
+  "palettes": [
+    {
+      "id": "DMC436",
+      "name": "DMC-436色",
+      "brand": "DMC",
+      "nominal_size": 436,
+      "entries": 436,
+      "unique_colors": 436
+    },
+    {
+      "id": "MARD24",
+      "name": "MARD-24色",
+      "brand": "MARD",
+      "nominal_size": 24,
+      "entries": 24,
+      "unique_colors": 24
+    },
+    {
+      "id": "MARD48",
+      "name": "MARD-48色",
+      "brand": "MARD",
+      "nominal_size": 48,
+      "entries": 48,
+      "unique_colors": 48
+    },
+    {
+      "id": "MARD72",
+      "name": "MARD-72色",
+      "brand": "MARD",
+      "nominal_size": 72,
+      "entries": 72,
+      "unique_colors": 72
+    },
+    {
+      "id": "MARD96",
+      "name": "MARD-96色",
+      "brand": "MARD",
+      "nominal_size": 96,
+      "entries": 96,
+      "unique_colors": 96
+    },
+    {
+      "id": "MARD120",
+      "name": "MARD-120色",
+      "brand": "MARD",
+      "nominal_size": 120,
+      "entries": 120,
+      "unique_colors": 120
+    },
+    {
+      "id": "MARD144",
+      "name": "MARD-144色",
+      "brand": "MARD",
+      "nominal_size": 144,
+      "entries": 144,
+      "unique_colors": 144
+    },
+    {
+      "id": "MARD221",
+      "name": "MARD-221色",
+      "brand": "MARD",
+      "nominal_size": 221,
+      "entries": 221,
+      "unique_colors": 221
+    },
+    {
+      "id": "MARD280",
+      "name": "MARD-280色",
+      "brand": "MARD",
+      "nominal_size": 280,
+      "entries": 275,
+      "unique_colors": 275
+    }
+  ],
+  "bundle_sha256": "bf88eaa20b7b1574c922f3f58d5d46c0b2ae84af0953185448847b7bed5a6e94",
+  "files": {
+    "realpixelart/__init__.py": "9af1946904df893477c13710df3f8e9d79f3f6c8d0dc428313c46817ed880ed1",
+    "realpixelart/__main__.py": "96e7a6d634b950d2b6c6f9053596e35fda663901e4a2a55d2e30f4376de1b2dd",
+    "realpixelart/color_math.py": "ab735d2728ff0db7623d69f8d75dbcc407f04c903f946ed9bd029d64a45b883c",
+    "realpixelart/config.py": "4093a896a6dcf369e078b98f0dd9fa1207c2db9fc114aa61598f3bff3d7f9a2b",
+    "realpixelart/diagnostics.py": "3a5858aeccce58ff543d6915e3adc9a87269b222015bed4160d0530ba70ccc80",
+    "realpixelart/features.py": "d45e4e24abd6129457cfae5274ef4632a76b45dda88d09be69443814ae960201",
+    "realpixelart/grid.py": "ea7b22a06f419fd41a3791a080f33b96b4e23584cf9265255773540470ba4ca9",
+    "realpixelart/image_io.py": "e26d2cf1578b32c13fb685d8c266b52e460b066606b1ef4ca3096e1b7b5ec0b8",
+    "realpixelart/natural.py": "c6ec6b9fc9574c9927e2de663a4fe7b902c94849f2fa70ecdcf8d7e49499f46e",
+    "realpixelart/palette.py": "7b63eb05945c3a93c7ee718ed94dd36ec3c660bbfed79cd3846142025167d67f",
+    "realpixelart/pipeline.py": "a06404e008eca529c0b1e27f19fbde0a7eaf0027ffad0d9043968b74f6d817f2",
+    "realpixelart/sampling.py": "b3e416d851a48027485f044674af99851e31b66ab7d1d16a060ea9aca85f5b65",
+    "realpixelart/palettes.json": "d44788e6515ca7daffb7cdfb396dbd32b53a0c7f2247dbfecf9c5188667ddd89",
+    "web_bridge.py": "aaf3f2d3b8830a819f9afb3a40e167fb18eb35ac95527c983e3ee3f2d8501f06"
+  }
+}
